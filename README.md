@@ -17,3 +17,4 @@
 
 ## 🧭 Repository's additions. 
 - **28/10/2025**: CRUD Repository Example 1 looked in class 28/10/2025
+- **28/10/2025**: CRUD Guide and SOLID pattern in class 30/10/2025
