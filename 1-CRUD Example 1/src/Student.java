@@ -36,15 +36,31 @@ public class Student {
     }
 
     // Getters y Setters
-    public int getId() { return id; }
-    public String getName() { return name; }
-    public String getEmail() { return email; }
-    public double getGrade() { return grade; }
+    public int getId() { 
+        return id; 
+    }
+    public String getName() { 
+        return name; 
+    }
+    public String getEmail() { 
+        return email; 
+    }
+    public double getGrade() { 
+        return grade; 
+    }
 
-    public void setId(int id) { this.id = id; }
-    public void setName(String name) { this.name = name; }
-    public void setEmail(String email) { this.email = email; }
-    public void setGrade(double grade) { this.grade = grade; }
+    public void setId(int id) { 
+        this.id = id; 
+    }
+    public void setName(String name) { 
+        this.name = name; 
+    }
+    public void setEmail(String email) { 
+        this.email = email; 
+    }
+    public void setGrade(double grade) { 
+        this.grade = grade; 
+    }
 
     @Override
     public String toString() {
